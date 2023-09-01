@@ -6,13 +6,12 @@
 3. [Technologies](#technologies)
 
 ## Overview
-This is the backend for my portfolio website. Note: Application is not yet ready
+This is the backend for my portfolio website. 
 
 ## Languages
-* HTML
-* CSS
+* Handlebars
 * Typescript
 
 ## Technologies
-* Express.Ts
+* Express TS
 * Mongo DB

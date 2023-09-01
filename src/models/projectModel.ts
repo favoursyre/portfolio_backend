@@ -24,12 +24,17 @@ const projectSchema = new Schema<IProject, IProjectModel>(
         required: true, 
         trim: true
     },
+    description: {
+      type: String,
+      required: true, 
+      trim: true
+  },
     technologies: [{
         type: String,
         required: true, 
         trim: true
     }],
-    sourceCode: {
+    sourceCodeLink: {
         type: String,
         required: true,
         trim: true

@@ -1,4 +1,4 @@
-///This handles the server for Dr Lindsey
+///This handles the server for portfolio
 
 ///Libraries -->
 import express, {Application, Request, Response, NextFunction} from "express"
